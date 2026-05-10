@@ -86,7 +86,7 @@
         "text_zYmrxL": {
           "type": "text",
           "settings": {
-            "text": "Calmiva",
+            "text": "NEA",
             "highlight_type": "underline",
             "text_size": 120,
             "text_color": "primary",
@@ -121,13 +121,99 @@
         "padding_bottom_mobile": 20
       }
     },
+    "featured_collection_CtdHRX": {
+      "type": "featured-collection",
+      "blocks": {
+        "collection_fYVkNK": {
+          "type": "collection",
+          "settings": {
+            "collection": "custom-collection",
+            "show_description": true,
+            "description": "",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less",
+            "show_vendor": false,
+            "show_rating": false,
+            "show_quickview": true,
+            "show_promotion": false,
+            "promotion_position": "left",
+            "card_link": "",
+            "open_new_window": false,
+            "enable_text_overlay": false,
+            "overlay_opacity": 0,
+            "image_ratio": "100",
+            "show_sound_control": false,
+            "enable_video_autoplay": false,
+            "video_alt_text": "",
+            "product_card": "",
+            "heading": "Featured collection",
+            "highlight_type": "underline",
+            "heading_size": 70,
+            "content": "<p>10% OFF</p>",
+            "text_size": 100,
+            "content_alignment": "center",
+            "content_position": "bottom",
+            "button_label": "See more",
+            "button_link": "",
+            "open_new_window_button": false,
+            "show_button_style": "primary",
+            "background_color": "rgba(0,0,0,0)",
+            "color_text": "rgba(0,0,0,0)",
+            "color_heading_highlight_light": "rgba(0,0,0,0)",
+            "color_button": "rgba(0,0,0,0)",
+            "color_text_button": "rgba(0,0,0,0)",
+            "color_button_hover": "rgba(0,0,0,0)",
+            "color_text_button_hover": "rgba(0,0,0,0)",
+            "color_button_secondary": "rgba(0,0,0,0)",
+            "secondary_button_text": "rgba(0,0,0,0)",
+            "colors_text_link": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "collection_fYVkNK"
+      ],
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "Featured collections",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "heading_alignment": "center",
+        "subheading": "",
+        "text": "",
+        "show_view_all": false,
+        "view_all_position": "top",
+        "title_size": 120,
+        "title_style": "none",
+        "enable_desktop_slider": false,
+        "slider_style": "horizontal",
+        "swiper_on_mobile": false,
+        "auto_play": false,
+        "change_slides_speed": 5,
+        "columns_desktop": 4,
+        "rows_desktop": 1,
+        "spacing": 28,
+        "full_width": false,
+        "show_section_divider": false,
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "columns_mobile": "1",
+        "spacing_mobile": 16,
+        "full_width_mobile": false,
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
+    },
     "scrolling_banner_6fW3xL": {
       "type": "scrolling-banner",
       "blocks": {
         "text_ARBErC": {
           "type": "text",
           "settings": {
-            "text": "Free Delivery",
+            "text": "Delivery All Over Lebanon",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -147,7 +233,7 @@
         "speed": 20,
         "direction": "right",
         "pause_hover": true,
-        "bg_light": "#2f6fed",
+        "bg_light": "#c9a779",
         "color_text_light": "#ffffff",
         "color_text_light_2": "rgba(0,0,0,0)",
         "color_heading_highlight_light": "rgba(0,0,0,0)",
@@ -169,7 +255,7 @@
         "heading_FKqVLq": {
           "type": "heading",
           "settings": {
-            "heading": "About Us",
+            "heading": "At Nea",
             "highlight_type": "underline",
             "heading_size": 100,
             "heading_tag": "h2"
@@ -178,7 +264,7 @@
         "text_DYie9T": {
           "type": "text",
           "settings": {
-            "text": "<p>At our store, we believe that self-care should be simple, effective, and accessible to everyone. That’s why we’re dedicated to offering innovative beauty and wellness products designed to fit seamlessly into your daily routine.</p><p>Our featured eye care device combines modern technology with comfort, helping you relax, refresh, and take better care of your skin—all from the comfort of your home. Whether you’re looking to unwind after a long day or enhance your skincare routine, our products are made to support your well-being.</p>",
+            "text": "<p>we believe beauty is more than just products — it’s about confidence, self-care, and expressing your unique style. Our mission is to provide high-quality beauty products that help every customer feel beautiful, comfortable, and empowered in their everyday life. From skincare essentials to makeup and beauty accessories, we carefully choose products that combine quality, style, and affordability.</p><p>We are passionate about creating a shopping experience that is simple, enjoyable, and inspiring. Whether you are looking for everyday beauty essentials or products to elevate your routine, Nea is here to bring you trusted beauty solutions that fit your needs. Our goal is to help you discover products that make you glow inside and out while delivering excellent service and customer satisfaction.</p><p>At Nea, beauty is for everyone, and we are proud to be part of your self-care journey.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less"
@@ -236,7 +322,7 @@
         "speed": 20,
         "direction": "right",
         "pause_hover": true,
-        "bg_light": "#2f6fed",
+        "bg_light": "#c9a779",
         "color_text_light": "#ffffff",
         "color_text_light_2": "rgba(0,0,0,0)",
         "color_heading_highlight_light": "rgba(0,0,0,0)",
@@ -258,31 +344,31 @@
         "frequently_asked_question_cCBAj6": {
           "type": "frequently_asked_question",
           "settings": {
-            "icon": "heart",
+            "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "What does this eye device do?",
-            "row_content": "<p><br/>Our eye care device is designed to help relax the eye area, reduce the appearance of puffiness, and support a refreshed, well-rested look using gentle light and soothing technology.<br/><br/></p>"
+            "heading": "Are your products safe to use?",
+            "row_content": "<p>Yes, at <strong>Nea</strong> we carefully select beauty products made with quality and safety in mind. We aim to offer products that are suitable for everyday use and help our customers feel confident and comfortable.</p><h3></h3>"
           }
         },
         "frequently_asked_question_kjDnG9": {
           "type": "frequently_asked_question",
           "settings": {
-            "icon": "heart",
+            "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Is it safe to use daily?",
-            "row_content": "<p>Yes, the device is designed for regular use. However, we recommend following the usage guidelines and consulting a professional if you have any medical concerns.<br/><br/></p>"
+            "heading": "How long does delivery take?",
+            "row_content": "<p>Delivery usually takes <strong>5–7 business days</strong>, depending on your location and order processing time.</p><h3></h3>"
           }
         },
         "frequently_asked_question_4dJVT3": {
           "type": "frequently_asked_question",
           "settings": {
-            "icon": "heart",
+            "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "How long does it take to see results?",
-            "row_content": "<p>Results may vary, but many users notice a more relaxed and refreshed feeling immediately, with visible improvements over consistent use.</p>"
+            "heading": "Do you offer Cash on Delivery?",
+            "row_content": "<p>Yes, we offer <strong>Cash on Delivery (COD)</strong> for your convenience.</p><h3></h3>"
           }
         }
       },
@@ -406,6 +492,7 @@
   "order": [
     "fe5dccd3-17fd-4fd3-ada9-a0e11305981c",
     "scrolling_banner_tpXmCL",
+    "featured_collection_CtdHRX",
     "scrolling_banner_6fW3xL",
     "rich_text_iRYjAW",
     "scrolling_banner_9fE7Y9",
